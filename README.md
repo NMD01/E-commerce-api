@@ -31,6 +31,8 @@
 $ npm install
 ```
 
+
+
 ## Compile and run the project
 
 ```bash
@@ -38,7 +40,7 @@ $ npm install
 $ npm run start
 
 # watch mode
-$ npm run start:dev
+$ npm run dev
 
 # production mode
 $ npm run start:prod
@@ -96,3 +98,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+---
